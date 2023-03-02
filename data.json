@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "img": 1,
+        "producto": "LABIAL EN BARRA",
+        "descripcion": "Fórmulas hidratantes, de larga duración, brillantes, mates y con los colores más tendencia. Elegí la barra de labios que más se adapte a tu estilo u ocasión.",
+        "precio": 8000,
+        "category": "Maquillaje",
+        "cantidad": 30
+    },
+    {
+        "id": 2,
+        "img": 2,
+        "producto": "SERUM",
+        "descripcion": "Con el paso de los años la piel va perdiendo parte de su elasticidad y firmeza. Por suerte, siempre hay un cuidado para vos dentro de la amplia gama de cremas de Italo. Con el tratamiento adecuado podrás reavivar el tono, devolver elasticidad y volumen o reducir las arrugas de tu rostro."
+        "precio": 9000,
+        "category": "Cuidado de la Piel",
+        "cantidad": 25
+    },
+    {
+        "id": 3,
+        "img": 3,
+        "producto": "TÓNICO FACIAL",
+        "descripcion": "Con 5% de Niacinamida que promueve una visible mejora de los poros, de la textura de la piel y la uniformidad del tono.Tónico facial para todo tipo de piel.",
+        "precio": 5500,
+        "category": "Cuidado de la Piel",
+        "cantidad": 7
+    },
+    {
+        "id": 4,
+        "img": 4,
+        "producto": "CORRECTOR EN CREMA",
+        "descripcion": "Ayuda a reducir la apariencia de las ojeras e imperfecciones, e incluso el tono de tu piel, con los correctores e iluminadores de Italo. ",
+        "precio": 5000,
+        "category": "Maquillaje",
+        "cantidad": 20
+    },
+    {
+        "id": 5,
+        "img": 5,
+        "producto": "SET DE BROCHAS PARA MAQUILLAJE",
+        "descripcion": "Set de 8 brochas para maquillaje. Contiene:
+
+        Brocha para polvo. Sirve para sellar el acabado de tu base de forma uniforme.
+        Brocha ideal para colocar rubor en polvo. También puede utilizarse para iluminar el rostro.
+        Brocha para aplicar base.
+        Pincel para difuminar sombra.
+        Pincel para perfilar cejas.
+        Pincel para aplicar corrector.
+        Pincel para difuminar el delineado en lápiz.
+        Pincel para labios..",
+        "precio": 15000,
+        "category": "Accesorio para maquillaje",
+        "cantidad": 20
+    },
+    {
+        "id": 6,
+        "img": 6,
+        "producto": "SOMBRA PARA OJOS",
+        "descripcion": "Paleta de sombras para ojos.",
+        "precio": 10000,
+        "category": "Maquillaje",
+        "cantidad": 15
+    },
+    {
+        "id": 7,
+        "img": 7,
+        "producto": "LABIAL LIQUIDO",
+        "descripcion": "Labial líquido ultra mate de textura fluida y aterciopelada, rica en pigmentos para un color puro de larga duración.",
+        "precio": 11000,
+        "category": "Maquillaje",
+        "cantidad": 21
+    },
+]
